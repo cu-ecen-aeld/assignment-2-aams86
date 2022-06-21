@@ -1,0 +1,188 @@
+[2022-06-19 21:00:26Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-06-19 21:00:26Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:26Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:26Z INFO HostContext] Well known config file 'Credentials': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO HostContext] Well known config file 'Runner': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.runner'
+[2022-06-19 21:00:27Z INFO Listener] Runner is built for Linux (Arm) - linux-arm.
+[2022-06-19 21:00:27Z INFO Listener] RuntimeInformation: Linux 5.4.0-1052-raspi #58-Ubuntu SMP PREEMPT Mon Feb 7 16:56:27 UTC 2022.
+[2022-06-19 21:00:27Z INFO Listener] Version: 2.293.0
+[2022-06-19 21:00:27Z INFO Listener] Commit: 7785d8e1045339fbc88b92c9b506d35ed2b7523c
+[2022-06-19 21:00:27Z INFO Listener] Culture: 
+[2022-06-19 21:00:27Z INFO Listener] UI Culture: 
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO Listener] Validating directory permissions for: '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO CommandLineParser] Parse
+[2022-06-19 21:00:27Z INFO CommandLineParser] Parsing 1 args
+[2022-06-19 21:00:27Z INFO CommandLineParser] parsing argument
+[2022-06-19 21:00:27Z INFO CommandLineParser] HasArgs: False
+[2022-06-19 21:00:27Z INFO CommandLineParser] Adding Command: run
+[2022-06-19 21:00:27Z INFO Listener] Arguments parsed
+[2022-06-19 21:00:27Z INFO Runner] ExecuteCommand
+[2022-06-19 21:00:27Z INFO ConfigurationStore] currentAssemblyLocation: /home/pi/git_workspace/assignment-1-aams86/actions-runner/bin/Runner.Listener.dll
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] binPath: /home/pi/git_workspace/assignment-1-aams86/actions-runner/bin
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] RootFolder: /home/pi/git_workspace/assignment-1-aams86/actions-runner
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO HostContext] Well known config file 'Runner': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.runner'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] ConfigFilePath: /home/pi/git_workspace/assignment-1-aams86/actions-runner/.runner
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO HostContext] Well known config file 'Credentials': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] CredFilePath: /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_migrated'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] MigratedCredFilePath: /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_migrated
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO HostContext] Well known config file 'Service': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.service'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] ServiceConfigFilePath: /home/pi/git_workspace/assignment-1-aams86/actions-runner/.service
+[2022-06-19 21:00:27Z INFO CommandSettings] Flag 'help': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Flag 'version': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Flag 'check': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Command 'configure': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Command 'remove': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-06-19 21:00:27Z INFO ConfigurationManager] LoadSettings
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsConfigured()
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsConfigured: True
+[2022-06-19 21:00:27Z INFO ConfigurationManager] Is configured: True
+[2022-06-19 21:00:27Z INFO ConfigurationStore] Read setting file: 295 chars
+[2022-06-19 21:00:27Z INFO ConfigurationManager] Settings Loaded
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsServiceConfigured: False
+[2022-06-19 21:00:27Z INFO CommandSettings] Command 'run': 'True'
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsConfigured()
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsConfigured: True
+[2022-06-19 21:00:27Z INFO ConfigurationManager] Is configured: True
+[2022-06-19 21:00:27Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2022-06-19 21:00:27Z INFO Runner] Set runner startup type - Manual
+[2022-06-19 21:00:27Z INFO CommandSettings] Flag 'once': 'False'
+[2022-06-19 21:00:27Z INFO CommandSettings] Flag 'once': 'False'
+[2022-06-19 21:00:27Z INFO Runner] RunAsync
+[2022-06-19 21:00:27Z INFO ConfigurationManager] LoadSettings
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsConfigured()
+[2022-06-19 21:00:27Z INFO ConfigurationStore] IsConfigured: True
+[2022-06-19 21:00:27Z INFO ConfigurationManager] Is configured: True
+[2022-06-19 21:00:27Z INFO ConfigurationManager] Settings Loaded
+[2022-06-19 21:00:27Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "rpi002",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/cRk3UJNIshY8IyNJtmyJNmVlLFGz42JRcFlY9MS7e5uGoB2yBD",
+  "GitHubUrl": "https://github.com/cu-ecen-aeld/assignment-1-aams86",
+  "WorkFolder": "_work"
+}
+[2022-06-19 21:00:27Z INFO MessageListener] Loading Credentials
+[2022-06-19 21:00:27Z INFO ConfigurationStore] HasCredentials()
+[2022-06-19 21:00:27Z INFO ConfigurationStore] stored True
+[2022-06-19 21:00:27Z INFO CredentialManager] GetCredentialProvider
+[2022-06-19 21:00:27Z INFO CredentialManager] Creating type OAuth
+[2022-06-19 21:00:27Z INFO CredentialManager] Creating credential type: OAuth
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Bin': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/bin'
+[2022-06-19 21:00:27Z INFO HostContext] Well known directory 'Root': '/home/pi/git_workspace/assignment-1-aams86/actions-runner'
+[2022-06-19 21:00:27Z INFO HostContext] Well known config file 'RSACredentials': '/home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams'
+[2022-06-19 21:00:27Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams
+[2022-06-19 21:00:27Z INFO MessageListener] Attempt to create session.
+[2022-06-19 21:00:27Z INFO MessageListener] Connecting to the Runner Server...
+[2022-06-19 21:00:27Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-06-19 21:00:28Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-06-19 21:00:28Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-06-19 21:00:28Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-06-19 21:00:28Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-06-19 21:00:28Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-06-19 21:00:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-06-19 21:00:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-06-19 21:00:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-06-19 21:00:29Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-06-19 21:00:29Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-06-19 21:00:29Z INFO MessageListener] VssConnection created
+[2022-06-19 21:00:29Z INFO Terminal] WRITE LINE: 
+[2022-06-19 21:00:29Z INFO Terminal] WRITE LINE: 
+[2022-06-19 21:00:29Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 29016053-ac86-4708-aec2-4c8c8ba5df7e
+ActivityId: ef1419da-1d7e-444b-80fa-7ca0328ef96b
+X-TFS-Session: b3c4b4c7-5a54-49e3-842d-e4a794e6b33d
+X-VSS-E2EID: 6f9ab95a-7914-4d80-b05e-6699ce6144c4
+X-VSS-SenderDeploymentId: fc1cfc90-fc40-edcb-6d0f-3b1380ee7b68
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 204DF93BFBC34D80974507DEDF63F927 Ref B: LAX311000115023 Ref C: 2022-06-19T21:00:29Z
+Date: Sun, 19 Jun 2022 21:00:28 GMT
+
+[2022-06-19 21:00:29Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams
+[2022-06-19 21:00:29Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams
+[2022-06-19 21:00:30Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-06-19 21:00:30Z INFO MessageListener] Session created.
+[2022-06-19 21:00:30Z INFO Terminal] WRITE LINE: Current runner version: '2.293.0'
+[2022-06-19 21:00:30Z INFO Terminal] WRITE LINE: 2022-06-19 21:00:30Z: Listening for Jobs
+[2022-06-19 21:00:30Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2022-06-19 21:30:38Z INFO MessageListener] No message retrieved from session 'd71a657a-d98c-49ba-b3c7-35dadebf9d98' within last 30 minutes.
+[2022-06-19 21:55:44Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 368af11f-372f-445d-95da-2ba299917fec
+ActivityId: c3e912a8-a156-4f4b-8925-15466a4f9fbd
+X-TFS-Session: b3c4b4c7-5a54-49e3-842d-e4a794e6b33d
+X-VSS-E2EID: fee204ff-a9bb-4ab9-9570-5ac40036f3aa
+X-VSS-SenderDeploymentId: fc1cfc90-fc40-edcb-6d0f-3b1380ee7b68
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: A34563157A774CB8B8DC887DF9FEB98E Ref B: LAX311000115023 Ref C: 2022-06-19T21:55:44Z
+Date: Sun, 19 Jun 2022 21:55:44 GMT
+
+[2022-06-19 21:55:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams
+[2022-06-19 21:55:45Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-06-19 22:00:46Z INFO MessageListener] No message retrieved from session 'd71a657a-d98c-49ba-b3c7-35dadebf9d98' within last 30 minutes.
+[2022-06-19 22:30:54Z INFO MessageListener] No message retrieved from session 'd71a657a-d98c-49ba-b3c7-35dadebf9d98' within last 30 minutes.
+[2022-06-19 22:50:58Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: c481a934-6e13-4e81-a360-fc533a9488d5
+ActivityId: d71b94af-6876-41c9-807c-735b5ffe5c0c
+X-TFS-Session: b3c4b4c7-5a54-49e3-842d-e4a794e6b33d
+X-VSS-E2EID: fae0e625-eb28-435c-bd8d-10f4b946eaa1
+X-VSS-SenderDeploymentId: fc1cfc90-fc40-edcb-6d0f-3b1380ee7b68
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 7F045CAB72A044FBA2EB66EE134EB190 Ref B: LAX311000115023 Ref C: 2022-06-19T22:50:58Z
+Date: Sun, 19 Jun 2022 22:50:58 GMT
+
+[2022-06-19 22:50:58Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams
+[2022-06-19 22:50:59Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-06-19 23:01:01Z INFO MessageListener] No message retrieved from session 'd71a657a-d98c-49ba-b3c7-35dadebf9d98' within last 30 minutes.
+[2022-06-19 23:31:08Z INFO MessageListener] No message retrieved from session 'd71a657a-d98c-49ba-b3c7-35dadebf9d98' within last 30 minutes.
+[2022-06-19 23:46:12Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 368af11f-372f-445d-95da-2ba299917fec
+ActivityId: c3991033-a156-4f4b-8925-15466a4f9fbd
+X-TFS-Session: b3c4b4c7-5a54-49e3-842d-e4a794e6b33d
+X-VSS-E2EID: 90f7803a-9567-4016-95b9-7a399a030643
+X-VSS-SenderDeploymentId: fc1cfc90-fc40-edcb-6d0f-3b1380ee7b68
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: A50A984AA2724C639A82E854BDBD45A8 Ref B: LAX311000115023 Ref C: 2022-06-19T23:46:12Z
+Date: Sun, 19 Jun 2022 23:46:12 GMT
+
+[2022-06-19 23:46:12Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/pi/git_workspace/assignment-1-aams86/actions-runner/.credentials_rsaparams
+[2022-06-19 23:46:13Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-06-20 00:01:16Z INFO MessageListener] No message retrieved from session 'd71a657a-d98c-49ba-b3c7-35dadebf9d98' within last 30 minutes.
